@@ -1,0 +1,32 @@
+# Arduino / Teensy build products
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.tmp
+*.log
+
+# Local settings and editor artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Proprietary/native project assets not meant for publication
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+*.sldprt
+*.sldasm
+*.slddrw
+
+# Internal draft documents and procurement records
+FinalReport*.docx
+UserManual*.docx
+DemoDayPresentation*.pptx
+BOM_GF_SFU*
