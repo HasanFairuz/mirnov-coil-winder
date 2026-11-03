@@ -36,8 +36,6 @@ Hand-winding a Mirnov coil requires the operator to regulate bobbin rotation, la
 <p align="center"><img src="media/Coil%20Winding.gif" alt="Coil winding media supplied by the project team" width="850" /></p>
 <p align="center"><img src="media/Finished%20Coil.png" alt="Completed fine-wire coil on a bobbin" width="580" /></p>
 
-> The winding media is reproduced as supplied by the project team. If GitHub does not animate the file, check the source encoding before interpreting it as a video.
-
 ### Prototype and Electronics
 
 | Operator interface | Controller and motor drivers |
